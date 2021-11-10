@@ -11,3 +11,5 @@ Once the user is logged in, the user will be able to view the blog posts that ar
 The posts created by a particular user are visible to all the other registered members of the company.
 
 In this project, I have made us of FlaskForms, werkzeug.security (for storing the hashed passord in the database), blue prints to ensure the user is logged in before accessing the blog portal.
+
+![image](https://user-images.githubusercontent.com/34751165/141173071-cf01ef04-b24d-49ce-9183-03869f5cfa2e.png)
